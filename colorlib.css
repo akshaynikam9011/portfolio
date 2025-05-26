@@ -1,0 +1,647 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family:arial;
+}
+
+.main{
+	width: 100%;
+	height: 130px;
+	background-color: ;
+	float: left;
+	
+}
+
+@media (max-width:650%) {
+	.main{
+		width: 100%;
+	}
+
+	
+}
+.colorlib{
+	width: 10%;
+	height: 50px;
+	background-color:black;
+	float: left;
+	color: whitesmoke;
+	align-content: center;
+	text-align: center;
+	font-size: 35px;
+	border-top-left-radius: 10px;
+
+
+
+
+}
+
+
+
+.notary{
+	width: 10%;
+	height: 50px;
+	background-color:grey;
+	float: left;
+	align-content: center;
+	text-align: center;
+	font-size: 17PX;
+
+}
+.one{
+	width: 54.500000%;
+	height: 50px;
+	background-color:rgb(17, 18, 17);
+	float: left;
+}
+.tv{
+	width: 5%;
+	height: 50px;
+	background-color:rgb(22, 10, 20);
+	float: left;
+	align-content: center;
+	text-align: center;
+	font-size: 20px;
+	color: whitesmoke;
+	border-right: 1px solid grey;
+	border-left: 1px solid grey;
+	
+
+
+}
+
+.tv:hover{
+background-color:bisque;
+}
+
+.mobile{
+	width: 5%;
+	height: 50px;
+	background-color:rgb(22, 10, 20);
+	
+	float: left;
+	align-content: center;
+	text-align: center;
+	font-size: 20px;
+	color: whitesmoke;
+	border-right: 1px solid grey;
+	border-left: 1px solid grey;
+
+
+}
+
+.mobile:hover{
+background-color:bisque;
+}
+.tab{
+	width: 5%;
+	height: 50px;
+	background-color:rgb(22, 10, 20);
+	
+	float: left;
+	align-content: center;
+	text-align: center;
+	font-size: 20px;
+	color: whitesmoke;
+
+}
+
+.tab:hover{
+background-color:bisque;
+}
+.cart{
+	width: 5%;
+	height: 50px;
+	background-color:green;
+	float: left;
+	align-content: center;
+	text-align: center;
+	font-size: 20px;
+	color: whitesmoke;
+	border-right: 1px solid grey;
+	border-left: 1px solid grey;
+
+}
+
+.cart:hover{
+background-color:black;
+}
+.wrong{
+	width: 5%;
+	height: 50px;
+	background-color:rgb(22, 10, 20);
+	
+	float: left;
+	align-content: center;
+	text-align: center;
+	font-size: 30px;
+	color: whitesmoke;
+	border-top-right-radius: 10px;
+	border-right: 1px solid grey;
+	border-left: 1px solid grey;
+
+
+}
+
+.notary1{
+	width: 10%;
+	height: 80px;
+	background-color: beige;
+	float: left;
+	align-content: center;
+	text-align: center;
+	font-size: 20px;
+}
+
+.blank{
+	width: 40%;
+	height: 80px;
+	background-color: beige;
+	float: left;
+}
+
+.home{
+	height: 80px;
+	width: 100px;
+	background-color:beige;
+	float: left;
+	align-content: center;
+	text-align: center;
+}
+
+.areas{
+	width: 150px;
+	height: 80px;
+	float: left;
+	background-color: beige;
+	align-content: center;
+	text-align: center;
+}
+
+.ak{
+	background-color: beige;
+	border: solid beige;
+}
+.Testimonials {
+	width: 130px;
+	height: 80px;
+	float: left;
+	background-color:beige;
+	align-content: center;
+	text-align: center;
+}
+
+.About{
+	width: 100px;
+	height: 80px;
+	background-color: beige;
+	float: left;
+	align-content: center;
+	text-align: center;
+
+}
+
+.contact{
+	width: 100px;
+	height: 80px;
+	background-color: beige;
+	float: left;
+	align-content: center;
+	text-align:center;
+}
+.empty{
+	width: 50px;
+	height: 80px;
+	background-color: beige;
+	float: left;
+}
+
+.img{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+	background-image: url(https://www.excelsiorcontent.com/wp-content/uploads/2024/03/pexels-katrin-bolovtsova-6077447-1-scaled.jpg);
+}
+.box1{
+	width: 400px;
+	height: 400px;
+	box-sizing: border-box;
+	background-color:;
+	float: left;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.box2{
+	width: 400px;
+	height: 400px;
+	box-sizing: border-box;
+	background-color: whitesmoke;
+	float: left;
+	margin-left: 200px;
+	margin-top: 80px;
+	border-radius: 10px;
+
+}
+
+.public{
+	color: whitesmoke;
+	font-size: 50px;
+	margin-top: 30px;
+}
+.lorem{
+	color: whitesmoke;
+	margin-top: 30px;
+	padding: 10px;
+}
+.book{
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.name input{
+	width: 330px;
+	height: 40px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+button{
+	width: 330px;
+	height: 40px;
+	margin-left: 30px;
+	margin-top: 30px;
+	background-color: beige;
+	border: 3px solid beige;
+}
+
+.main1{
+	width:100%;
+	height: 650px;
+	background-color:whitesmoke;
+	float: left;
+
+}
+
+.practice{
+	margin-left: 550px;
+	font-size: 30px;
+	margin-top: 30px;
+}
+p{
+	margin-left:460px;
+	margin-top: 10px;
+}
+
+
+.law1{
+	width: 280px;
+	height: 200px;
+	background-color:white;
+	float: left;
+	box-sizing: border-box;
+	margin-left: 110px;
+	margin-top: 40px;
+	box-shadow: 5px 0px 20px 0px grey;
+
+}
+
+.symole1{
+	margin-top: 40px;
+	font-size: 40px;
+	margin-left: 20px;
+	color: coral;
+
+}
+.bank{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+.banklorem{
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 12px;
+	color: grey;
+}
+
+.main2{
+	width:100%;
+	height: 650px;
+	background-color:whitesmoke;
+	float: left;
+}
+
+.girlimg{
+	width: 250px;
+	height: 400px;
+	float: left;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+	margin-top: 100px;
+	margin-left: 50px;
+	background-image: url(https://media.gettyimages.com/id/104821157/photo/smiling-lawyer-in-office.jpg?s=612x612&w=gi&k=20&c=9q-P_wFhBRky8gyRgihZBNay8_Qx3KnZ-4H7-mISTfo=);
+
+}
+
+.boyimg{
+	width: 250px;
+	height: 400px;
+	float: left;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+	margin-top: 100px;
+	margin-left: 50px;
+	background-image: url(https://media.istockphoto.com/id/104821113/photo/smiling-lawyers-in-office.jpg?s=612x612&w=0&k=20&c=V2XtsGU_S8uvoT9-arJmGb0DV-6wTGgv_rtQ7DU-L-4=);
+
+}
+
+.effective{
+	width: 400px;
+	height: 400px;
+	float: left;
+	background-color:;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+.we{
+	font-size: 25px;
+	margin-top: 20px;
+	margin-left: 70px;
+}
+
+.lorem0{
+	margin-top: 40px;
+	word-spacing: 10px;
+}
+
+.bookbutton{
+	width: 100px;
+
+}
+
+.main3{
+	width: 100%;
+	height: 600px;
+	background-color:whitesmoke;
+	float: left;
+}
+
+.happy{
+	font-size: 25px;
+	margin-top: 90px;
+	margin-left: 530px;
+}
+
+.lina{
+	width: 300px;
+	height: 250px;
+	background-color:white;
+	float: left;
+	box-sizing: border-box;
+	margin-left: 100px;
+	margin-top: 60px;
+	box-shadow: 5px 0px 20px 0px grey;
+
+}
+
+
+.linaimg{
+	width: 60px;
+	height: 60px;
+	border-radius: 40px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8z6_8HkxKTFBykg-NZo-ANRMRxczor5kzaQ&s);
+	float: left;
+	margin-top: 40px;
+	margin-left: 30px;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+
+}
+
+.linagold{
+	font-size: 20px;
+	margin-top: 50px;
+
+}
+
+.owner{
+	font-size: 15px;
+	color: grey;
+}
+
+.loremlina{
+
+margin-top: 30px;
+word-spacing: 10px;
+margin-left: 20px;
+}
+
+.main4{
+	width: 100%;
+	height: 660px;
+	background-color: ;
+	float: left;
+
+}
+
+.solutions{
+    width: 350px;
+	height: 450px;
+	float: left;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+	margin-top: 80px;
+	margin-left: 50px;
+	background-color:;
+}
+
+.Legal{
+	font-size: 25px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.lorem00{
+	word-spacing: 10px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.lorem11{
+	word-spacing: 10px;
+	margin-left: 10px;
+}
+
+.aperiam{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+.aperiam i{
+	color: green;
+}
+
+.how{
+	 width: 350px;
+	height: 40px;
+    float:left;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+	margin-top: 80px;
+	margin-left: 50px;
+	background-color:whitesmoke;
+	align-content: center;
+	box-shadow: 0px 0px 10px 0px;
+	border-bottom: 1px solid grey;
+
+
+
+}
+
+.anim{
+	width: 350px;
+	height: 300px;
+	background-color:whitesmoke;
+	float: left;
+	margin-left: 50px;
+	word-spacing: 10px;
+	word-spacing: 10px;
+	margin-top: 1px;
+
+
+}
+
+.akshay{
+	margin-top: 20px;
+	margin-left: 10px;
+	word-spacing: 15px;
+}
+.howto{
+	 width: 350px;
+	height: 40px;
+    float:left;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	margin-left: px;
+	background-color:whitesmoke;
+	align-content: center;
+	border: 1px solid grey;
+	
+
+
+
+}
+
+.howtoo{
+	 width: 350px;
+	height: 40px;
+    float:left;
+	background-size: 100%100%;
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	margin-left: px;
+	background-color:whitesmoke;
+	align-content: center;
+	border: 1px solid grey;
+
+}
+
+.main5{
+	width: 100%;
+	height: 660px;
+	float: left;
+	background-size: 100%100%;
+	background-image: url(https://www.excelsiorcontent.com/wp-content/uploads/2024/03/pexels-katrin-bolovtsova-6077447-1-scaled.jpg);
+}
+
+.aboutus{
+	width: 300px;
+	height: 300px;
+	background-color:;
+	float: left;
+	margin-top: 150px;
+	margin-left: 100px;
+	color: white;
+}
+
+.About1{
+	font-size:20px ;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.about2{
+	margin-top: 20px;
+	margin-left: 10px;
+	float: left;
+	word-spacing: 10px;
+}
+
+.circle1{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	background-color: beige;
+	margin-top:20px;
+	float: left;
+	margin-left: 20px;
+
+}
+
+.circle2{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	background-color:beige;
+	margin-top:20px;
+	margin-left: 10px;
+	float: left;
+
+}
+
+.circle3{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	background-color: beige;
+	margin-top:20px;
+	float: left;
+	margin-left: 10px;
+
+
+}
+
+.circle4{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	background-color: beige;
+	margin-top:20px;
+	float: left;
+	margin-left: 10px;
+
+
+}
+
+.circle5{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	background-color: beige;
+	margin-top:20px;
+	float: left;
+	margin-left: 10px;
+
+
+}
+
+.fackbook i{
+	color: black;
+	align-content: center;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 10px;
+	margin-left: 12px;
+}
